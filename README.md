@@ -1,2 +1,2 @@
-# PIR Motion Sensors 
-Some readme content
+# PIR Motion Sensors
+A mini guide to the PIR motion sensor
