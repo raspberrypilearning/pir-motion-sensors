@@ -3,7 +3,12 @@ hero_image: images/banner.png
 subtitle: About PIR Motion Sensors
 description: Find out what a PIR motion sensor is in this mini guide
 published: false
-
+duration: 1
+listed: false
+ingredient: true
+curriculum:
+interests:
+technologies:
 steps:
   - title: Step one
-    duration: 60
+
